@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+    <result>
+        <student>Brian Burlet</student>
+        <birthdate>1985-02-01</birthdate>
+        <grade>B</grade>
+        <percentage>76.0</percentage>
+    </result>
+    <result>
+        <student>Renard Konig</student>
+        <birthdate>1970-02-01</birthdate>
+        <grade>C</grade>
+        <percentage>61.0</percentage>
+    </result>
+    <result>
+        <student>Rita Paul</student>
+        <birthdate>1993-02-01</birthdate>
+        <grade>A</grade>
+        <percentage>92.0</percentage>
+    </result>
+    <result>
+        <student>Han Yenn</student>
+        <birthdate>1965-02-01</birthdate>
+        <grade>B</grade>
+        <percentage>83.0</percentage>
+    </result>
+</results>
